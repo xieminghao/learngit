@@ -1,2 +1,3 @@
 //readme.txt
-This txt is for recording git-learning readme.txt
+Git is a distributed version control system.
+Git is free software.
